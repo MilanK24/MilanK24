@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm G V Amaresh</h1>
+<h1 align="center">Hi 👋, I'm Milan Kumar</h1>
 <h3 align="center">💻 Software Developer | 🐍 Python & C/C++ Enthusiast | 📊 Passionate about DSA and its applications. | 🚀 Diving into Machine Learning and Deep Learning to create impactful solutions!</h3>
 
-- 🔭 I’m currently working on [Recognising Human and Robot audio]()
+- 🔭 I’m currently working on [Chat with your DATASET]()
 
 - 🌱 I’m currently learning *Golang, AWS, DSA*
 
@@ -9,11 +9,11 @@
 
 <!-- - 🤝 I’m looking for help with [jjjj](jjj) -->
 
-- 👨‍💻 All of my projects are available at [https://gvamaresh.netlify.app/](https://gvamaresh.netlify.app/)
+<!-- - 👨‍💻 All of my projects are available at [https://gvamaresh.netlify.app/](https://gvamaresh.netlify.app/) -->
 
 - 💬 Ask me about *React, Typescript, Next.js, AWS, DSA, HTML, CSS, Javascript,*
 
-- 📫 How to reach me *reshama0302@gmail.com*
+- 📫 How to reach me *milarado24@gmail.com*
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/11d6DTRElnnyUWzTCF7RrztNcGyJruGrg/view?usp=drivesdk](https://drive.google.com/file/d/11d6DTRElnnyUWzTCF7RrztNcGyJruGrg/view?usp=drivesdk)
 
